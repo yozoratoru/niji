@@ -8,4 +8,16 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/kaitou.unity
+    guid: e5f31832a72184f418bccb246b018ee1
+  - enabled: 1
+    path: Assets/Scenes/kuria.unity
+    guid: 2b6a9b44dbe24fa428a435773a576f7f
+  - enabled: 0
+    path: Assets/Scenes/sippai.unity
+    guid: cd97d0f6c7587fc4e8253edf86cca12d
+  - enabled: 1
+    path: Assets/zannnenn.unity
+    guid: 2c5823f1e3ad2fa4ea3322d9273c3bc1
   m_configObjects: {}
