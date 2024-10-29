@@ -17,7 +17,10 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/sippai.unity
     guid: cd97d0f6c7587fc4e8253edf86cca12d
-  - enabled: 1
+  - enabled: 0
     path: Assets/zannnenn.unity
     guid: 2c5823f1e3ad2fa4ea3322d9273c3bc1
+  - enabled: 1
+    path: Assets/Scenes/a.unity
+    guid: 45897c6b9b6ee2645bc42422946d5c98
   m_configObjects: {}
